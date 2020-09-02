@@ -1,4 +1,6 @@
-![Michael Tobin](/img/Michael.png)
+<p align="center">
+  <img src="/img/Michael.png" />
+</p>
 
 ## Information
 
