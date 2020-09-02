@@ -1,10 +1,14 @@
 # Using the base theme provided by Github
 theme: jekyll-theme-slate
-
+email:
 lang: eng
 author: Michael Tobin
 title: Michael's homepage
-description: A site created for BDA 594
+description: >- # this means to ignore newlines until "baseurl:"
+A site created for BDA 594
+baseurl:
+url: # the subpath of your site, e.g. /blog
+github_username: # the base hostname & protocol for your site, e.g. http://example.com
 
 # SDSU emblem
 favicon: "/img/favicon.ico"
