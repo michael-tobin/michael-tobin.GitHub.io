@@ -1,6 +1,11 @@
+# Using the base theme provided by Github
 theme: jekyll-theme-slate
+
 lang: eng
 author: Michael Tobin
 title: Michael's homepage
-description: 
+description: A site created for BDA 594
+
+# SDSU emblem
 favicon: "/img/favicon.ico"
+
